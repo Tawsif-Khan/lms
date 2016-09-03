@@ -1,0 +1,44 @@
+[18-Feb-2016 16:51:56 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[18-Feb-2016 16:53:48 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[18-Feb-2016 16:56:01 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[19-Feb-2016 11:32:40 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[19-Feb-2016 11:38:45 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[19-Feb-2016 11:48:27 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[19-Feb-2016 11:49:25 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[19-Feb-2016 12:03:11 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[19-Feb-2016 12:04:21 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[19-Feb-2016 15:46:58 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/tsquaret/public_html/lms/lms/android_api/index.php on line 150
+[21-Feb-2016 06:11:49 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:14:57 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:15:49 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:17:49 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:18:05 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:23:13 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:23:44 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:24:12 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:27:52 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:28:27 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:33:46 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:34:26 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:39:18 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:42:40 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[21-Feb-2016 06:53:54 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[24-Feb-2016 04:00:17 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[24-Feb-2016 04:02:09 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[24-Feb-2016 06:04:28 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[24-Feb-2016 06:06:06 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[24-Feb-2016 06:11:06 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[27-Feb-2016 12:50:05 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[27-Feb-2016 14:51:26 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[27-Feb-2016 14:56:40 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[27-Feb-2016 14:59:40 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[27-Feb-2016 15:02:04 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[27-Feb-2016 15:04:10 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[27-Feb-2016 15:05:17 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[27-Feb-2016 15:07:48 America/Detroit] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/tsquaret/public_html/lms/lms/android_api/gcmEngine.php on line 13
+[11-Apr-2016 02:01:31 America/Detroit] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/breakles/public_html/lms/android_api/index.php on line 200
+[11-Apr-2016 02:01:31 America/Detroit] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/breakles/public_html/lms/android_api/index.php on line 200
+[11-Apr-2016 06:47:52 America/Detroit] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/breakles/public_html/lms/android_api/index.php on line 200
+[11-Apr-2016 06:47:52 America/Detroit] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/breakles/public_html/lms/android_api/index.php on line 200
+[11-Apr-2016 09:39:45 America/Detroit] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/breakles/public_html/lms/android_api/index.php on line 200
+[11-Apr-2016 09:39:45 America/Detroit] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/breakles/public_html/lms/android_api/index.php on line 200
